@@ -17,7 +17,7 @@ A simple Java and Maven-based Mini Bank Management System that retrieves custome
 
 ## Prerequisites
 
-- Java Development Kit (JDK) installed
+- Java Development Kit (JDK) installed 8+
 - Maven installed
 - MySQL Database Server installed and running
 
